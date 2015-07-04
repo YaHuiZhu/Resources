@@ -1,3 +1,4 @@
+1，Apache虚拟主机的配置参见：foundationphp.com/tutorials/apache22_vhosts.php
 apache配置的虚拟主机可以分成三类
 一，根据多个IP地址区分虚拟主机
 二，根据不同的端口号区分虚拟主机
